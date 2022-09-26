@@ -1,6 +1,6 @@
  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=lcslima45&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lcslima45&layout=compact&langs_count=16&theme=radical" />
-🎓 I'm Computer Engineering Student at Universidade Federal do Ceará.
+🎓 I'm currently undergraduated Computer Engineering Student at Universidade Federal do Ceará.
 🔭 I’m currently working with Go Backend development. I like Go because it is simple but seems like C and Python, and I like both. Go gives me a powerful standard library to develop good apps. 
 ⚡ Fun fact: I like to play guitar but this has nothing to do with programming languages.
 
