@@ -8,11 +8,9 @@ Eu sou desenvolvedor Go e utilizo Python para automatizar algumas atividades. At
 
 ### 🚀 Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-### 📊 Overview
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Lucas%20Lima&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
