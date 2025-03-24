@@ -6,4 +6,6 @@
 
 <p> Eu sou desenvolvedor Go e utilizo Python para automatizar algumas atividades, atualmente também estudo TypeScript em projetos pessoais. </p>
 
-
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
