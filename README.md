@@ -4,7 +4,7 @@
 
 ### 🌟 Sobre mim
 
-Eu sou desenvolvedor Go e utilizo Python para automatizar algumas atividades. Atualmente, também estudo TypeScript em projetos pessoais.
+Eu sou desenvolvedor Go e utilizo Python para automatizar algumas atividades. Atualmente, também estudo TypeScript em projetos pessoais!
 
 ### 🚀 Tecnologias e Ferramentas
 
