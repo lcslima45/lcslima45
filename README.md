@@ -11,7 +11,6 @@ I'm a backend developer focused on building scalable applications, APIs, automat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-
 ## 🏆 Top Languages
 
 <p align="center">
@@ -20,7 +19,7 @@ I'm a backend developer focused on building scalable applications, APIs, automat
 
 ## 🛠️ Backend & Infrastructure
 
-* **Languages:** Go, C#, Python, TypeScript, Rust
+* **Languages:** Go, C#, Python, TypeScript
 * **APIs:** REST, gRPC
 * **Databases:** PostgreSQL, MySQL, DynamoDB
 * **Messaging:** RabbitMQ
@@ -32,7 +31,6 @@ I'm a backend developer focused on building scalable applications, APIs, automat
 
 * Advanced C#
 * .NET
-* Rust
 * Distributed systems
 * Linux
 * Observability
@@ -41,3 +39,4 @@ I'm a backend developer focused on building scalable applications, APIs, automat
 ## 📫 Connect
 
 Feel free to explore my repositories and projects.
+
