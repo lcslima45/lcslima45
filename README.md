@@ -14,7 +14,7 @@ I'm a backend developer focused on building scalable applications, APIs, automat
 ## 🏆 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🛠️ Backend & Infrastructure
